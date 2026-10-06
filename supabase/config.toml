@@ -1,0 +1,14 @@
+[functions.paystack-init]
+verify_jwt = false
+
+[functions.paystack-verify]
+verify_jwt = false
+
+[functions.paystack-webhook]
+verify_jwt = false
+
+[functions.paystack-pricing]
+verify_jwt = false
+
+[functions.admin-stats]
+verify_jwt = false
